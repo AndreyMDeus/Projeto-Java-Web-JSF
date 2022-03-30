@@ -14,4 +14,4 @@ Esse projeto utiliza JSF, PRIMEFACES e EJB:
 # Caracteristicas:
 
 1. Banco de Dados MySQL.
-2. Servidor Web WidFly 12.
+2. Servidor Web WildFly 12.
