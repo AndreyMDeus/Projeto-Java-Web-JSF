@@ -1,3 +1,5 @@
+# O exemplo utiliza práticas já não utilizadas visto hoje os frameworks utilizarem anotações e dependências para as técnicas aqui utilizadas.
+
 # Sistema Exemplo Java Web
 
 Esse projeto utiliza JSF, PRIMEFACES e EJB:
