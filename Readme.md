@@ -15,3 +15,4 @@ Esse projeto utiliza JSF, PRIMEFACES e EJB:
 
 1. Banco de Dados MySQL.
 2. Servidor Web WildFly 12.
+3. A versão implementa classes DAO para tratamento dos dados.
