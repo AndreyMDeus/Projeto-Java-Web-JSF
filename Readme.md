@@ -1,5 +1,7 @@
 # O exemplo utiliza práticas já não utilizadas visto hoje os frameworks utilizarem anotações e dependências para as técnicas aqui utilizadas.
 
+Obs: muitas empresas (instituições financeiras por exemplo) possuem sistemas legados desenvolvidos com essa técnica. Assim esse exemplo pode ser útil caso você se depare com a tarefa de manter um desses sistemas.
+
 # Sistema Exemplo Java Web
 
 Esse projeto utiliza JSF, PRIMEFACES e Java Beans:
