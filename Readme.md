@@ -2,7 +2,7 @@
 
 # Sistema Exemplo Java Web
 
-Esse projeto utiliza JSF, PRIMEFACES e EJB:
+Esse projeto utiliza JSF, PRIMEFACES e Java Beans:
 
 1. Consulta Produtos por Código.
 2. Inclusão de Produtos.
