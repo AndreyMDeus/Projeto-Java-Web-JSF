@@ -19,3 +19,4 @@ Esse projeto utiliza JSF, PRIMEFACES e Java Beans:
 2. Servidor Web WildFly 12.
 3. A versão implementa classes DAO para tratamento dos dados.
 4. Teste unitário com JUnit para validar a persistência de dados.
+5. Utiliza o Primefaces para design das páginas Web com recursividade.
